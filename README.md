@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a suckless and nvim enthusiast, currently using archlinx + dwm, it's my ![dwm](https://github.com/BYT0723/dwm) and ![neovim](https://github.com/BYT0723/nvim)
+- I'm a suckless and nvim enthusiast, currently using archlinx + dwm, it's my [dwm](https://github.com/BYT0723/dwm) and [neovim](https://github.com/BYT0723/nvim)
 - I am learning nvim plug-in development, my new plug-in goctl.nvim welcomes your review.
 
 ![walt's GitHub stats](https://github-readme-stats.vercel.app/api?username=BYT0723&show_icons=true)
