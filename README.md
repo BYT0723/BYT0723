@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - I am learning nvim plug-in development, my new plug-in goctl.nvim welcomes your review.
 
 ![walt's GitHub stats](https://github-readme-stats.vercel.app/api?username=BYT0723&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BYT0723&layout=compact&exclude_repo=BYT0723,dotfile,wallpapers)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BYT0723)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BYT0723&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
