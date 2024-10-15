@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on **Network Device Monitor**
 
-- 🌱 I’m currently learning **Golang, Rust, Lua**
+- 🌱 I’m currently learning **Rust, Lua**
 
-- 🤝 I’m looking for help with [Neovim Plugin](https://github.com/BYT0723/nvim)
+- 🤝 I’m looking for help with [Neovim Configuration](https://github.com/BYT0723/nvim)
 
-- 📝 I regularly write articles on [https://byt0723.xyz](https://byt0723.xyz)
+- 📝 I regularly write articles on [BYT0723's Blog](https://byt0723.xyz)
 
-- 💬 Ask me about **golang, network management**
-
-- 📫 How to reach me **twang9739@gmail.com**
+- 💬 Ask me about **golang, bash, linux, network management**
 
 - ⚡ Fun fact: I like using tools from the `suckless` community, currently using `archlinux` + `neovim` for development. it's my [dwm(dynamic window manager)](https://github.com/BYT0723/dwm) and [neovim configuration](https://github.com/BYT0723/nvim)
 
