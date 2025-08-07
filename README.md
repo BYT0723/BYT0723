@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Neovim Configuration](https://github.com/BYT0723/nvim)
 
-- 📝 I regularly write articles on [BYT0723's Blog](https://byt0723.xyz)
+- 📝 I regularly write articles on [BYT0723's Blog](https://blog.byt0723.xyz)
 
 - 💬 Ask me about **golang, bash, linux, network management**
 
