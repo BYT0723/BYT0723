@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
+<!--
 <h3 align="center">A backend developer from China</h3>
-
 <img src="https://komarev.com/ghpvc/?username=byt0723&label=Profile%20views&color=0e75b6&style=flat" alt="byt0723" />
-
 [![wakatime](https://wakatime.com/badge/user/79cdfe46-84dc-4e18-b07f-4098daab9bbd.svg)](https://wakatime.com/@79cdfe46-84dc-4e18-b07f-4098daab9bbd)
+-->
 
 - 🔭 I’m currently working on **Network Device Monitor**
 
